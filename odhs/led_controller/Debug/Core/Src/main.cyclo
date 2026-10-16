@@ -1,0 +1,15 @@
+../Core/Inc/led_controller.h:26:6:init	2
+../Core/Inc/led_controller.h:33:6:addLED	2
+../Core/Inc/led_controller.h:48:5:createLED	1
+../Core/Inc/led_controller.h:53:7:setAll	2
+../Core/Inc/led_controller.h:59:7:resetAll	2
+../Core/Inc/led_controller.h:65:7:toggleAll	2
+../Core/Inc/led_controller.h:73:7:setI	1
+../Core/Inc/led_controller.h:77:7:resetI	1
+../Core/Inc/led_controller.h:81:7:toggleI	1
+../Core/Inc/led_controller.h:87:6:clear	1
+../Core/Src/main.c:67:5:main	2
+../Core/Src/main.c:123:6:SystemClock_Config	4
+../Core/Src/main.c:183:13:MX_GPIO_Init	1
+../Core/Src/main.c:242:6:MPU_Config	1
+../Core/Src/main.c:273:6:Error_Handler	1

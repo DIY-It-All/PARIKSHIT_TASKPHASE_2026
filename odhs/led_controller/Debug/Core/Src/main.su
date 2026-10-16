@@ -1,0 +1,15 @@
+../Core/Inc/led_controller.h:26:6:init	16	static
+../Core/Inc/led_controller.h:33:6:addLED	40	static
+../Core/Inc/led_controller.h:48:5:createLED	40	static
+../Core/Inc/led_controller.h:53:7:setAll	24	static
+../Core/Inc/led_controller.h:59:7:resetAll	24	static
+../Core/Inc/led_controller.h:65:7:toggleAll	24	static
+../Core/Inc/led_controller.h:73:7:setI	16	static
+../Core/Inc/led_controller.h:77:7:resetI	16	static
+../Core/Inc/led_controller.h:81:7:toggleI	16	static
+../Core/Inc/led_controller.h:87:6:clear	16	static
+../Core/Src/main.c:67:5:main	40	static
+../Core/Src/main.c:123:6:SystemClock_Config	120	static
+../Core/Src/main.c:183:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:242:6:MPU_Config	24	static
+../Core/Src/main.c:273:6:Error_Handler	4	static,ignoring_inline_asm
